@@ -1,0 +1,327 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#uuu{
+    background-image: url("https://lhcdn.mars.com/adaptivemedia/rendition/id_26a3e9bab3bfbc9687f043291ee1c1b1c24dafc8/name_26a3e9bab3bfbc9687f043291ee1c1b1c24dafc8.jpg");
+    width: 1921px;
+    height: 800px;
+    background-position: center;
+    background-size:cover;
+
+}
+#s1{
+   color: white; 
+   padding-top: 200px;
+   padding-left: 800px;
+   font-size: 25px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#bac{
+    width: 100%;
+    height: 800px;
+    background-color: rgb(30, 30, 30, 0.4);
+}
+#s2{
+    color: white;
+    padding-left: 415px;
+    padding-top: 50px;
+    font-size: 65px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+#s3{
+    background-color: rgb(255, 0, 0);
+    width: 110px;
+    height: 14px;
+    margin-left: 880px;
+    margin-top: 52px;
+}
+
+#boshi{
+    background-color: rgb(240, 170, 65);
+    width: 1922px;
+    height: 680px;
+    display: flex;
+}
+#s4{
+    width: 670px;
+    height: 170px;
+    padding-top: 250px;
+    padding-left: 250px;
+    animation: sin 2s linear infinite;
+}
+@keyframes sin{
+    0%{
+       margin-top: 0px;
+    
+    }
+    50%{
+       margin-top: 47px;
+    }
+    80%{
+        margin-bottom: 47px;
+    }
+}
+#s5{
+ 
+  margin-left: 120px;
+}
+#s5 p{
+    color: white;
+    font-size: 25px;
+    padding-top: 190px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#boshi2 img{
+    width: 1910px;
+    height: 800px;
+}
+#boshi3{
+    background-color: rgb(83, 11, 11);
+    width: 1910px;
+    height: 885px;
+    
+}
+#s6{
+    color: white;
+    padding-top: 90px;
+    padding-left: 700px;
+    font-size: 47px;
+   border: 600;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#ii{
+    color: white;
+    text-decoration: none;
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+#knopochka{
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Oswald;
+    margin-top: 50px;
+    border-radius: 32px;
+    background: #210082;
+    color: #fff;
+    border: none;
+  height: 60px;
+  width: 145px;
+  transition: 1s;
+}
+
+
+#knopochka:hover{
+background-color: #fff;
+color: #210082;
+}
+
+#yor{
+    margin-top: 70px;
+    margin-left: 90px;
+    margin-bottom: 13px;
+    display: flex;
+ }
+ 
+ #yor img{
+    margin-right: 170px;
+    
+    width: 480px;
+    height: 295px;
+    object-fit: cover;
+    
+ }
+ 
+ #yor img:hover{
+    transition: 0.3s;
+ transform: scale(1.10);
+
+ }
+ 
+ 
+ #yordam{
+   margin-left: 239px;  
+   margin-bottom:35px;
+   display: flex;
+ 
+ }
+ 
+ #yordam a{
+   color: rgb(255, 253, 252);
+   width: 210px;
+   text-decoration: none;
+   font-size: 30px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-weight: bold;
+ 
+   margin-right: 585px;
+
+   
+ }
+ #s7{
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Oswald;
+    margin-top: 40px;
+    border-radius: 47px;
+    background-color:  #210082;
+    color: #fff;
+    border: none;
+  height: 60px;
+  width: 198px;
+  transition: 1s;
+ margin-right: 550px;
+ padding-left: 15px;
+ padding-right: 15px;
+ 
+}
+
+
+#s7:hover{
+background-color: #fff;
+color: #210082;
+}
+#s{
+    display: flex;
+    margin-left: 240px; 
+}
+#rasmmm{
+    background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAC5AXMDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAUEAEAAAAAAAAAAAAAAAAAAAAA/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAME/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AlgEWoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB//9k=);
+    width: 1900px;
+    height: 700px;
+    padding: 0;
+    margin: 0;
+}
+#rasmm{
+background-color: #f6a606; 
+   width: 1900px;
+    height: 200px;
+    margin-top: 40px
+}
+#text7{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    margin-left: 120px;
+    padding-top: 50px;
+}
+#otaaa1{
+    margin-top: 35px;
+}
+#otaaa2{
+    margin-top: 35px;
+}
+#otaaa3{
+    margin-top: 35px;
+}
+
+#otaaa5{
+    margin-top: 45px;
+}
+#otaaa6{
+    margin-top: 15px;
+}
+#otaaa7{
+    margin-top: 15px;
+}
+#otaaa8{
+    margin-top: 30px;
+}
+ #s9{
+    font-size: 20px;
+    font-weight: 700;
+  
+    margin-top: 40px;
+    border-radius: 32px;
+  background-color: #410C00;
+    color: #fff;
+    border: none;
+  height: 60px;
+  width: 160px;
+  transition: 1s;
+   margin-right: 400px;
+   margin-left: 110px;
+   background-color: none;
+   border: solid 2px white;
+}
+
+
+#s9:hover{
+background-color: #fff;
+color: #210082;
+
+}
+#s{
+    display: flex;
+    margin-left: 240px;
+}
+#s11{
+  
+    padding-top: 180px;
+    padding-left: 700px;
+    font-size: 54px;
+   border: 600;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+#s12{
+width: 936px;
+height: 515px;
+margin-top: 85px;
+}
+#l p{
+   margin-top: 155px;
+   margin-left: 430px;
+   font-weight: 600;
+}
+#l h1{
+    color: #410C00;
+}
+#l1{
+    margin-left: 210px;
+    margin-top: 25px;
+    font-size: 63px;
+    font-weight: 800;
+   
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#ll{
+    font-size: 63px;
+    font-weight: 800;
+    margin-left: 167px;
+   
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#ll1{
+    font-size: 63px;
+    font-weight: 800;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     margin-left: 130px;
+}
+
+#knopochka2{
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Oswald;
+    margin-top: 40px;
+    border-radius: 32px;
+    background: #210082;
+    color: #fff;
+    border: none;
+  height: 60px;
+  width: 145px;
+  transition: 1s;
+  margin-left: 380px;
+}
+#knopochka2:hover{
+    color: #210082;
+    background-color: #fff;
+}
